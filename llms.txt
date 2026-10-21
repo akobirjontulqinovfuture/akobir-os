@@ -1,0 +1,30 @@
+# Akobir Tulkinov (AKOBIR.OS)
+
+> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a 13-year-old web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
+
+Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/akobir-os/, https://github.com/akobirjontulqinovfuture):
+- Location: Qarshi, Uzbekistan (UTC+5); works remotely across Uzbekistan and abroad.
+- Projects: 17 public projects — 12 websites, 4 Telegram bots / Mini Apps, 1 open-source tool (keelyard).
+- Services: Telegram bots & Mini Apps (Python, aiogram 3), hand-built websites with WebGL/GSAP motion, AI video editing for ads.
+- Turnaround: video edit first draft in 2–3 days; landing pages and bots usually 1–2 weeks.
+- Prices: quoted per project after the brief.
+- Pages: [English](https://akobirjontulqinovfuture.github.io/akobir-os/) · [Oʻzbekcha](https://akobirjontulqinovfuture.github.io/akobir-os/uz/) · [Русский](https://akobirjontulqinovfuture.github.io/akobir-os/ru/) · [Full facts](https://akobirjontulqinovfuture.github.io/akobir-os/llms-full.txt)
+
+## Projects
+- [The Vault](https://akobirjontulqinovfuture.github.io/elitetoolz-v2/) — EliteToolz v2 · concept redesign. An immersive 3D concept for elitetoolz.store — 44 real products, 6 chambers. Stack: Three.js, GLSL, GSAP, Lenis, WebAudio.
+- [Hofgut Lindenau](https://akobirjontulqinovfuture.github.io/farm-demo/) — Farm website · demo. A German farm site in real-time 3D — from soil to table. Stack: Three.js, GSAP, ScrollTrigger, Lenis.
+- [keelyard](https://github.com/akobirjontulqinovfuture/keelyard) — Open-source dev tool. Makes AI coding agents prove their work, undo any step and use ~80% fewer tokens (open benchmark). Stack: Open source, CLI, Claude Code, Codex.
+- [Atlas](https://akobirjontulqinovfuture.github.io/lab/atlas/) — 3D data story · concept. Fly the Silk Road across Uzbekistan in real-time 3D. Stack: Three.js, GLSL, Simplex noise.
+- [Bilim Plus App](https://akobirjontulqinovfuture.github.io/bilimplus-miniapp/) — Telegram Mini App · demo. An education centre as an app inside Telegram, UZ/RU. Stack: Telegram WebApp, HTML, CSS, JavaScript.
+- [Bilim Plus Bot](https://t.me/bilimplus_demo_bot) — Telegram bot · demo. A registration bot for an education centre with CSV export. Stack: Python 3, aiogram 3, SQLite.
+- [Ledger](https://akobirjontulqinovfuture.github.io/lab/ledger/) — Bot admin dashboard · concept. The admin side of a Telegram shop bot, with ⌘K menu. Stack: Vanilla JS, SVG charts, Pointer Events.
+- [EliteToolz](https://akobirjontulqinovfuture.github.io/elitetoolz-demo/) — Motion concept v1. A motion-design storefront with a liquid-chrome hero. Stack: Three.js, GSAP, ScrollTrigger, Lenis.
+- [Edu Zone](https://akobirjontulqinovfuture.github.io/eduzone-demo/) — Personalised demo site. A site for a German-language centre in Tashkent, A1–B2. Stack: WebGL, GSAP, ScrollTrigger, Lenis.
+- [Bilim Plus](https://akobirjontulqinovfuture.github.io/bilim-plus-demo/) — Motion website · demo. Ink & saffron — a motion site for an education centre. Stack: WebGL, GLSL, GSAP, Lenis.
+- [ORB](https://akobirjontulqinovfuture.github.io/lab/orb/) — WebGL configurator · lab. Build a speaker in real-time 3D. Stack: Three.js, PBR materials.
+- [Cutroom](https://akobirjontulqinovfuture.github.io/lab/cutroom/) — Live video FX · concept. An AI-editor landing with 6 live shaders on a real edit. Stack: WebGL, GLSL, HTML video.
+- [Navbahor](https://akobirjontulqinovfuture.github.io/lab/kvartal/) — Residential complex · concept. Pick a floor, pick an apartment, see the monthly payment. Stack: SVG, Vanilla JS.
+- [Ekran](https://akobirjontulqinovfuture.github.io/lab/kino/) — Cinema booking · concept. Film, session, seats, ticket — in one screen. Stack: SVG, Vanilla JS, Web Animations API.
+- [Shifo](https://akobirjontulqinovfuture.github.io/lab/shifo/) — Clinic booking · concept. Book a doctor in under a minute. Stack: Vanilla JS, iCalendar.
+- [Glass](https://akobirjontulqinovfuture.github.io/lab/glass/) — Mini App concept. Coffee in two taps, on liquid glass. Stack: Telegram WebApp, backdrop-filter.
+- [PULSE](https://akobirjontulqinovfuture.github.io/lab/pulse/) — Kinetic type · concept. An event site that dances to its own beat. Stack: WebAudio, Variable fonts.

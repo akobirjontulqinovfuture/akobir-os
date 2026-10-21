@@ -1,0 +1,99 @@
+# Akobir Tulkinov (AKOBIR.OS)
+
+> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a 13-year-old web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
+
+Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/akobir-os/, https://github.com/akobirjontulqinovfuture):
+- Location: Qarshi, Uzbekistan (UTC+5); works remotely across Uzbekistan and abroad.
+- Projects: 17 public projects — 12 websites, 4 Telegram bots / Mini Apps, 1 open-source tool (keelyard).
+- Services: Telegram bots & Mini Apps (Python, aiogram 3), hand-built websites with WebGL/GSAP motion, AI video editing for ads.
+- Turnaround: video edit first draft in 2–3 days; landing pages and bots usually 1–2 weeks.
+- Prices: quoted per project after the brief.
+- Pages: [English](https://akobirjontulqinovfuture.github.io/akobir-os/) · [Oʻzbekcha](https://akobirjontulqinovfuture.github.io/akobir-os/uz/) · [Русский](https://akobirjontulqinovfuture.github.io/akobir-os/ru/) · [Full facts](https://akobirjontulqinovfuture.github.io/akobir-os/llms-full.txt)
+
+## Projects
+- [The Vault](https://akobirjontulqinovfuture.github.io/elitetoolz-v2/) — EliteToolz v2 · concept redesign. An immersive 3D concept for elitetoolz.store — 44 real products, 6 chambers. Stack: Three.js, GLSL, GSAP, Lenis, WebAudio.
+- [Hofgut Lindenau](https://akobirjontulqinovfuture.github.io/farm-demo/) — Farm website · demo. A German farm site in real-time 3D — from soil to table. Stack: Three.js, GSAP, ScrollTrigger, Lenis.
+- [keelyard](https://github.com/akobirjontulqinovfuture/keelyard) — Open-source dev tool. Makes AI coding agents prove their work, undo any step and use ~80% fewer tokens (open benchmark). Stack: Open source, CLI, Claude Code, Codex.
+- [Atlas](https://akobirjontulqinovfuture.github.io/lab/atlas/) — 3D data story · concept. Fly the Silk Road across Uzbekistan in real-time 3D. Stack: Three.js, GLSL, Simplex noise.
+- [Bilim Plus App](https://akobirjontulqinovfuture.github.io/bilimplus-miniapp/) — Telegram Mini App · demo. An education centre as an app inside Telegram, UZ/RU. Stack: Telegram WebApp, HTML, CSS, JavaScript.
+- [Bilim Plus Bot](https://t.me/bilimplus_demo_bot) — Telegram bot · demo. A registration bot for an education centre with CSV export. Stack: Python 3, aiogram 3, SQLite.
+- [Ledger](https://akobirjontulqinovfuture.github.io/lab/ledger/) — Bot admin dashboard · concept. The admin side of a Telegram shop bot, with ⌘K menu. Stack: Vanilla JS, SVG charts, Pointer Events.
+- [EliteToolz](https://akobirjontulqinovfuture.github.io/elitetoolz-demo/) — Motion concept v1. A motion-design storefront with a liquid-chrome hero. Stack: Three.js, GSAP, ScrollTrigger, Lenis.
+- [Edu Zone](https://akobirjontulqinovfuture.github.io/eduzone-demo/) — Personalised demo site. A site for a German-language centre in Tashkent, A1–B2. Stack: WebGL, GSAP, ScrollTrigger, Lenis.
+- [Bilim Plus](https://akobirjontulqinovfuture.github.io/bilim-plus-demo/) — Motion website · demo. Ink & saffron — a motion site for an education centre. Stack: WebGL, GLSL, GSAP, Lenis.
+- [ORB](https://akobirjontulqinovfuture.github.io/lab/orb/) — WebGL configurator · lab. Build a speaker in real-time 3D. Stack: Three.js, PBR materials.
+- [Cutroom](https://akobirjontulqinovfuture.github.io/lab/cutroom/) — Live video FX · concept. An AI-editor landing with 6 live shaders on a real edit. Stack: WebGL, GLSL, HTML video.
+- [Navbahor](https://akobirjontulqinovfuture.github.io/lab/kvartal/) — Residential complex · concept. Pick a floor, pick an apartment, see the monthly payment. Stack: SVG, Vanilla JS.
+- [Ekran](https://akobirjontulqinovfuture.github.io/lab/kino/) — Cinema booking · concept. Film, session, seats, ticket — in one screen. Stack: SVG, Vanilla JS, Web Animations API.
+- [Shifo](https://akobirjontulqinovfuture.github.io/lab/shifo/) — Clinic booking · concept. Book a doctor in under a minute. Stack: Vanilla JS, iCalendar.
+- [Glass](https://akobirjontulqinovfuture.github.io/lab/glass/) — Mini App concept. Coffee in two taps, on liquid glass. Stack: Telegram WebApp, backdrop-filter.
+- [PULSE](https://akobirjontulqinovfuture.github.io/lab/pulse/) — Kinetic type · concept. An event site that dances to its own beat. Stack: WebAudio, Variable fonts.
+
+## EN
+
+Akobir Tulkinov (Tulkinov Akobir), 13, Qarshi, Uzbekistan. IT Park student. I build Telegram bots and Mini Apps, turnkey websites with WebGL motion, and AI-edited video ads. First draft in 2–3 days.
+
+I’m Akobir Tulkinov — Tulkinov Akobir, the Uzbek way. I live in Qarshi, I study at IT Park, and for three years I’ve learned two crafts at once: editing video with AI, and writing code. Editing taught me timing. Code taught me systems.
+
+### Services
+- AI video editing: A vertical promo or ad cut to the music, with captions and sound. First draft in 2–3 days.
+- Websites: Landing pages, portfolios and business sites written by hand: fast on phones, animated, with SEO basics, in Uzbek, Russian or English.
+- Telegram bots: Bots and Mini Apps that take orders, sign people up, answer common questions and forward every request to you.
+
+### FAQ
+- Q: I need a Telegram bot — can you build one?
+  A: Yes. Akobir Tulkinov builds Telegram bots and Mini Apps in Python (aiogram 3): order bots, booking bots, registration bots with admin panel and CSV export, plus server setup. Landing pages and bots usually take 1–2 weeks.
+- Q: How do I order a website?
+  A: Email akobirtulqinov2@gmail.com with what you need, the deadline and one link you like. You get a short plan and a start date, then a working link early. Domain, hosting and source code are handed over.
+- Q: Where is Akobir Tulkinov based?
+  A: Qarshi, Uzbekistan (UTC+5). He works remotely with clients in Tashkent, across Uzbekistan and abroad, in Uzbek, Russian and English.
+- Q: How fast is the first draft?
+  A: A video edit: first draft in 2–3 days. Landing pages and Telegram bots: usually one to two weeks depending on scope.
+- Q: How much does it cost?
+  A: Prices are quoted per project after the brief, because scope differs. Two revision rounds are included.
+
+## UZ
+
+Akobir Tulkinov (Tulkinov Akobir), 13 yosh, Qarshi, Oʻzbekiston. IT Park oʻquvchisi. Telegram bot va Mini App, WebGL animatsiyali saytlar va AI video montaj. Birinchi variant 2–3 kunda.
+
+Men Akobir Tulkinov — oʻzbekcha aytganda, Tulkinov Akobir. Qarshida yashayman, IT Parkda oʻqiyman va uch yildan beri ikki hunarni birga oʻrganyapman: AI bilan video montaj va kod yozish. Montaj vaqtni his qilishni, kod tizimli fikrlashni oʻrgatdi.
+
+### Services
+- AI video montaj: Musiqaga mos kesilgan, subtitr va tovushli vertikal promo yoki reklama. Birinchi variant 2–3 kunda.
+- Saytlar: Landing, portfolio va biznes saytlar — qoʻlda yoziladi, telefonda tez, animatsiyali, SEO asoslari bilan, oʻzbek, rus yoki ingliz tilida.
+- Telegram botlar: Buyurtma qabul qiladigan, roʻyxatga oladigan, savollarga javob beradigan va har bir soʻrovni sizga yuboradigan bot va Mini App’lar.
+
+### FAQ
+- Q: Telegram bot kerak — yaratib berasizmi?
+  A: Ha. Akobir Tulkinov Python (aiogram 3) da Telegram bot va Mini App yaratadi: buyurtma boti, qabulga yozilish boti, admin panel va CSV eksportli roʻyxatga olish boti, server sozlash bilan. Qarshi, Toshkent va butun Oʻzbekiston boʻylab masofadan.
+- Q: Sayt qanday buyurtma qilinadi?
+  A: akobirtulqinov2@gmail.com ga nima kerakligini, muddatni va yoqqan bitta havolani yozing. Qisqa reja va boshlash sanasini olasiz. Domen, hosting va manba kodi sizga topshiriladi.
+- Q: Akobir Tulkinov qayerda?
+  A: Qarshi, Oʻzbekiston (UTC+5). Oʻzbek, rus va ingliz tillarida masofadan ishlaydi.
+- Q: Birinchi variant qachon tayyor boʻladi?
+  A: Video montaj: 2–3 kunda. Landing va Telegram botlar: odatda 1–2 hafta.
+- Q: Narxi qancha?
+  A: Narx brifdan keyin har bir loyiha uchun alohida aytiladi. Ikki tuzatish davri kiradi.
+
+## RU
+
+Акобир Тулкинов (Tulkinov Akobir), 13 лет, Карши, Узбекистан. Учусь в IT Park. Делаю Telegram-боты и Mini App, сайты под ключ с WebGL-анимацией и AI-монтаж рекламы. Первый вариант за 2–3 дня.
+
+Я Акобир Тулкинов — по-узбекски Tulkinov Akobir. Живу в Карши, учусь в IT Park и три года осваиваю два ремесла сразу: монтаж видео с AI и программирование. Монтаж научил чувствовать время, код — мыслить системно.
+
+### Services
+- AI-монтаж: Вертикальное промо или реклама под музыку, с субтитрами и звуком. Первый вариант за 2–3 дня.
+- Сайты: Лендинги, портфолио и сайты для бизнеса вручную: быстрые на телефоне, с анимацией и базовым SEO, на узбекском, русском или английском.
+- Telegram-боты: Боты и Mini App, которые принимают заказы, записывают клиентов, отвечают на частые вопросы и пересылают вам каждую заявку.
+
+### FAQ
+- Q: Нужен Telegram-бот — сделаете?
+  A: Да. Акобир Тулкинов делает Telegram-боты и Mini App на Python (aiogram 3): боты для заказов, записи, регистрации с админ-панелью и выгрузкой в CSV, настройка сервера. Работает удалённо из Карши по всему Узбекистану.
+- Q: Как заказать сайт?
+  A: Напишите на akobirtulqinov2@gmail.com, что нужно, срок и одну ссылку, которая нравится. Вы получите короткий план и дату старта. Домен, хостинг и исходный код передаются вам.
+- Q: Где находится Акобир Тулкинов?
+  A: Карши, Узбекистан (UTC+5). Работает удалённо на узбекском, русском и английском.
+- Q: Как быстро первый вариант?
+  A: Монтаж: 2–3 дня. Лендинги и Telegram-боты: обычно 1–2 недели.
+- Q: Сколько стоит?
+  A: Цена называется после брифа, под каждый проект. Два круга правок включены.
