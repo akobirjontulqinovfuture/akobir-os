@@ -1,6 +1,6 @@
 # Akobir Tulkinov (AKOBIR.OS)
 
-> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a 13-year-old web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
+> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
 
 Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/akobir-os/, https://github.com/akobirjontulqinovfuture):
 - Location: Qarshi, Uzbekistan (UTC+5); works remotely across Uzbekistan and abroad.
@@ -29,9 +29,15 @@ Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/a
 - [Glass](https://akobirjontulqinovfuture.github.io/lab/glass/) — Mini App concept. Coffee in two taps, on liquid glass. Stack: Telegram WebApp, backdrop-filter.
 - [PULSE](https://akobirjontulqinovfuture.github.io/lab/pulse/) — Kinetic type · concept. An event site that dances to its own beat. Stack: WebAudio, Variable fonts.
 
+## AI video edits
+- Elite Tools Store — English promo (57s, 9:16): 57s vertical promo with giant kinetic typography, 3D glass UI panels, beat-synced transitions and a Telegram bot showcase.
+- Elite Tools Store — Arabic promo (57s, 9:16): Full Arabic (RTL) version of the motion-design promo with 3D camera moves, particle bursts and a Telegram bot section.
+- Elite Tools Store — Cinematic cut (47s, 9:16): 47s cinematic edit with motion blur, 2.5D parallax, colour grading, RGB-split lens transitions and light rays.
+- Elite Tools Store — Clean promo (47s, 9:16): 47s clean kinetic-typography promo showing the site, products, payment flow and a Payment approved moment.
+
 ## EN
 
-Akobir Tulkinov (Tulkinov Akobir), 13, Qarshi, Uzbekistan. IT Park student. I build Telegram bots and Mini Apps, turnkey websites with WebGL motion, and AI-edited video ads. First draft in 2–3 days.
+Akobir Tulkinov (Tulkinov Akobir), Qarshi, Uzbekistan. IT Park student. I build Telegram bots and Mini Apps, turnkey websites with WebGL motion, and AI-edited video ads. First draft in 2–3 days.
 
 I’m Akobir Tulkinov — Tulkinov Akobir, the Uzbek way. I live in Qarshi, I study at IT Park, and for three years I’ve learned two crafts at once: editing video with AI, and writing code. Editing taught me timing. Code taught me systems.
 
@@ -54,7 +60,7 @@ I’m Akobir Tulkinov — Tulkinov Akobir, the Uzbek way. I live in Qarshi, I st
 
 ## UZ
 
-Akobir Tulkinov (Tulkinov Akobir), 13 yosh, Qarshi, Oʻzbekiston. IT Park oʻquvchisi. Telegram bot va Mini App, WebGL animatsiyali saytlar va AI video montaj. Birinchi variant 2–3 kunda.
+Akobir Tulkinov (Tulkinov Akobir), Qarshi, Oʻzbekiston. IT Park oʻquvchisi. Telegram bot va Mini App, WebGL animatsiyali saytlar va AI video montaj. Birinchi variant 2–3 kunda.
 
 Men Akobir Tulkinov — oʻzbekcha aytganda, Tulkinov Akobir. Qarshida yashayman, IT Parkda oʻqiyman va uch yildan beri ikki hunarni birga oʻrganyapman: AI bilan video montaj va kod yozish. Montaj vaqtni his qilishni, kod tizimli fikrlashni oʻrgatdi.
 
@@ -77,7 +83,7 @@ Men Akobir Tulkinov — oʻzbekcha aytganda, Tulkinov Akobir. Qarshida yashayman
 
 ## RU
 
-Акобир Тулкинов (Tulkinov Akobir), 13 лет, Карши, Узбекистан. Учусь в IT Park. Делаю Telegram-боты и Mini App, сайты под ключ с WebGL-анимацией и AI-монтаж рекламы. Первый вариант за 2–3 дня.
+Акобир Тулкинов (Tulkinov Akobir), Карши, Узбекистан. Учусь в IT Park. Делаю Telegram-боты и Mini App, сайты под ключ с WebGL-анимацией и AI-монтаж рекламы. Первый вариант за 2–3 дня.
 
 Я Акобир Тулкинов — по-узбекски Tulkinov Akobir. Живу в Карши, учусь в IT Park и три года осваиваю два ремесла сразу: монтаж видео с AI и программирование. Монтаж научил чувствовать время, код — мыслить системно.
 

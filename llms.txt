@@ -1,6 +1,6 @@
 # Akobir Tulkinov (AKOBIR.OS)
 
-> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a 13-year-old web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
+> Akobir Tulkinov (Tulkinov Akobir, Акобир Тулкинов) is a web and Telegram-bot developer and AI video editor from Qarshi, Uzbekistan, studying at IT Park Uzbekistan. 3 years of experience. Works in Uzbek, Russian and English. Contact: akobirtulqinov2@gmail.com.
 
 Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/akobir-os/, https://github.com/akobirjontulqinovfuture):
 - Location: Qarshi, Uzbekistan (UTC+5); works remotely across Uzbekistan and abroad.
@@ -28,3 +28,9 @@ Key facts (as of 2026-10-21; source: https://akobirjontulqinovfuture.github.io/a
 - [Shifo](https://akobirjontulqinovfuture.github.io/lab/shifo/) — Clinic booking · concept. Book a doctor in under a minute. Stack: Vanilla JS, iCalendar.
 - [Glass](https://akobirjontulqinovfuture.github.io/lab/glass/) — Mini App concept. Coffee in two taps, on liquid glass. Stack: Telegram WebApp, backdrop-filter.
 - [PULSE](https://akobirjontulqinovfuture.github.io/lab/pulse/) — Kinetic type · concept. An event site that dances to its own beat. Stack: WebAudio, Variable fonts.
+
+## AI video edits
+- Elite Tools Store — English promo (57s, 9:16): 57s vertical promo with giant kinetic typography, 3D glass UI panels, beat-synced transitions and a Telegram bot showcase.
+- Elite Tools Store — Arabic promo (57s, 9:16): Full Arabic (RTL) version of the motion-design promo with 3D camera moves, particle bursts and a Telegram bot section.
+- Elite Tools Store — Cinematic cut (47s, 9:16): 47s cinematic edit with motion blur, 2.5D parallax, colour grading, RGB-split lens transitions and light rays.
+- Elite Tools Store — Clean promo (47s, 9:16): 47s clean kinetic-typography promo showing the site, products, payment flow and a Payment approved moment.
